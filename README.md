@@ -6,7 +6,7 @@
 - **Registration Number:** 252U1R8052
 - **Section:** CSE(QE)-2B - 204
 
-**Deployed link:** 
+**Deployed link:** https://bdf-lab-1-s426.onrender.com/
 
 ## Objective
 
